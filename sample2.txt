@@ -1,0 +1,4 @@
+lw a1 sp -32
+sw a1 sp -28
+fadd a3 a2 a1
+lw a1 sp -24
