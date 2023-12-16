@@ -1,3 +1,5 @@
+**English comments are given in the source codes.**
+
 ## 実行方法
 
 命令列はテキストファイルで表現する。対応している命令および書式は
